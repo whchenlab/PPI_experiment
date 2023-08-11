@@ -9,7 +9,7 @@ This project is for PPI experiment maniscript.
   
 * Rscripts for plotting. 
   * _plot.heatmap.R_, plot for Fig1A.
-  * _plot.bar.R_, all bar plot except Fig1AB.
+  * _plot.bar.R_, all bar plots except Fig1AB.
 
 ## Software requirement
   * R version: 4.3.0

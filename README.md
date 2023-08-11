@@ -7,7 +7,7 @@ This project is for PPI experiment.
 
 * _**02 - table**_ contains CSVs for ploting the manuscript figures.
   
-* Rscripts for modeling and plotting. 
+* Rscripts for plotting. 
   * _plot.heatmap.R_, plot for Fig1A.
   * _plot.bar.R_, all bar plot except Fig1AB.
   

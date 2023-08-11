@@ -10,4 +10,10 @@ This project is for PPI experiment.
 * Rscripts for plotting. 
   * _plot.heatmap.R_, plot for Fig1A.
   * _plot.bar.R_, all bar plot except Fig1AB.
+
+## Software requirement
+  * R version: 4.2.0
+  * A list of some required R packages version:
+    * ggplot2_3.4.2 
+    
   

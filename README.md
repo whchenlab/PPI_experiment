@@ -1,5 +1,5 @@
 # PPI_experiment
-This project is for PPI experiment.
+This project is for PPI experiment maniscript.
 ## Organization
 * _**00 - data**_ contains RData for Fig1A plot. 
 
@@ -12,8 +12,11 @@ This project is for PPI experiment.
   * _plot.bar.R_, all bar plot except Fig1AB.
 
 ## Software requirement
-  * R version: 4.2.0
+  * R version: 4.3.0
   * A list of some required R packages version:
-    * ggplot2_3.4.2 
+    * ggplot2_3.4.2
+    * ggpubr_0.6.0
+    * ggsignif_0.6.4
+    * pheatmap_1.0.12
     
   
